@@ -1,4 +1,4 @@
-### Bem-vindo ao meu perfil 💙 👋
+### Bem-vindo ao meu perfil :atom: 👋
 
 Meu nome é Natan Fortes.
 
@@ -11,4 +11,3 @@ Meu nome é Natan Fortes.
 natan.cardoso.lima@escola.pr.gov.br;
 
  ![](https://media.tenor.com/HpVRhoeRYaoAAAAd/minecraft.gif)
-
