@@ -1,11 +1,11 @@
 ### Bem-vindo ao meu perfil :atom: 👋
 
-Meu nome é Natan Fortes.
+Meu nome é **Natan Fortes**.
 
 - Estou estudando na Alura.
 - Estou aprendendo linguagem JavaScript ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-- Este espaço é para organizar e compartilhar meus projetos desenvolvidos
+- Este espaço é para *organizar e compartilhar meus projetos desenvolvidos*
 
 ### Você pode entrar em contato comigo por email
 
